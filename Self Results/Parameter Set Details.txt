@@ -1,0 +1,21 @@
+For figure 1:
+Standard Path Length: 165.33170595517302
+Modified Path Length: 100.00410729865557
+Parameters: 
+Pop_size = 50
+Max_T = 75
+Dim = 2   
+Num_obstacles = 30
+safe_distance = 10
+bounds = np.array([[0, 200], [0, 200]])
+
+
+For figure 2:
+Standard Path Length: 179.83532826232798
+modified Path Length: 154.78314868288112
+Pop_size = 10
+Max_T = 75
+Dim = 2   
+Num_obstacles = 50
+safe_distance = 5
+bounds = np.array([[0, 100], [0, 100]])
